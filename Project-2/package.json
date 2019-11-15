@@ -1,0 +1,25 @@
+{
+  "name": "project-2",
+  "version": "1.0.0",
+  "description": "Working with expressjs",
+  "main": "first-aap.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "NodeJS-projects"
+  },
+  "keywords": [
+    "nodejs",
+    "expressjs",
+    "js",
+    "web"
+  ],
+  "author": "Usman Malik",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^1.19.4"
+  }
+}
