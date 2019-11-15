@@ -1,0 +1,27 @@
+{
+  "name": "project-1",
+  "version": "1.0.0",
+  "description": "Node Projects ,,,, practicing",
+  "main": "first-aap.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon first-aap.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "NodeJS-projects"
+  },
+  "keywords": [
+    "nodejs",
+    "Projects",
+    "Node",
+    "js",
+    "js"
+  ],
+  "author": "Usman Malik",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  }
+}
